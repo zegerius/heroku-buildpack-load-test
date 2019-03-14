@@ -3,5 +3,5 @@
 cat <<EOF
 ---
 config_vars:
-  PATH: $PATH:/app/vendor/apache-jmeter/bin
+  PATH: $PATH:/app/vendor/apache-jmeter/apache-jmeter-5.1/bin
 EOF
